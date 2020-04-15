@@ -2,6 +2,7 @@ import java.util.Scanner; //scans stuff
 import java.io.File; //file stuff
 import java.io.IOException; //the try, catch, exception stuff (handle errors)
 import java.io.FileWriter; // to write files
+//Tesing
 public class Check_file_changes
 {
    public Check_file_changes(){
